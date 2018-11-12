@@ -14,10 +14,10 @@
 // let newFn = fn;
 // console.log(newFn.name); // fn
 
-class Calculator {
-  constructor() {}
-  add() {}
-}
-let c = new Calculator();
-console.log(Calculator.name);
-console.log(c.add.name);
+// class Calculator {
+//   constructor() {}
+//   add() {}
+// }
+// let c = new Calculator();
+// console.log(Calculator.name); // Calculator
+// console.log(c.add.name); // add
